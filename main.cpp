@@ -8,6 +8,6 @@ using namespace std;
 int main ()
 {
 
-  cout << "Hello Embedded Linux with Hazem Khaled" << endl;
+  cout << " Embedded Linux CPP project test " << endl;
   
 }
